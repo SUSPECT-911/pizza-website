@@ -9,10 +9,11 @@ This project was created while learning from Jonas Schmedtmann’s React course.
 
 🛠️ Tech Stack
 
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"JavaScript" (https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-"CSS" (https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3)
-"HTML" (https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5)
+
 
 ✨ Features
 
