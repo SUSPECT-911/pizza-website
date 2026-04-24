@@ -14,6 +14,10 @@ This project was created while learning from Jonas Schmedtmann’s React course.
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5)
 
+🎥 Demo Preview
+
+![Demo](./pizzas-demo.gif)
+
 
 ✨ Features
 
