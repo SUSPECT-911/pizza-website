@@ -5,7 +5,7 @@ This project was created while learning from Jonas Schmedtmann’s React course.
 
 🚀 Live Demo
 
-👉 https://suspect-911.github.io/pizza-website/
+👉 https://nageshl-12.github.io/pizza-website/
 
 🛠️ Tech Stack
 
